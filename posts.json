@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello, minimal blog",
+    "folder": "meta",
+    "file": "hello-world.md",
+    "date": "2026-09-03",
+    "excerpt": "Why this blog exists and how it stays tiny",
+    "words": 320
+  },
+  {
+    "slug": "markdown-showcase",
+    "title": "Markdown showcase",
+    "folder": "demo",
+    "file": "markdown-showcase.md",
+    "date": "2026-09-02",
+    "excerpt": "Every element this blog renders — code, tables, images",
+    "words": 600
+  },
+  {
+    "slug": "maintaining-this-blog",
+    "title": "Maintaining this blog in 30 seconds",
+    "folder": "guides",
+    "file": "maintaining-this-blog.md",
+    "date": "2026-09-01",
+    "excerpt": "Add a .md file, add one JSON line, push. Done.",
+    "words": 280
+  }
+]

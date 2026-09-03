@@ -1,0 +1,15 @@
+[
+  {
+    "name": "hello-world",
+    "repo": "octocat/Hello-World",
+    "branch": "master",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "Live demo — click to browse this repo in-page"
+  },
+  {
+    "name": "example-project",
+    "repo": "your-username/example-project",
+    "url": "https://github.com/your-username/example-project",
+    "description": "Replace with your own repo — edit repos.json"
+  }
+]

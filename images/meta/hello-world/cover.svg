@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+  <rect width="760" height="300" rx="16" fill="#101012"/>
+  <rect x="1" y="1" width="758" height="298" rx="15" fill="none" stroke="#232329"/>
+  <text x="60" y="130" font-family="sans-serif" font-size="42" font-weight="700" fill="#ececee" letter-spacing="-1">Hello, minimal blog.</text>
+  <text x="60" y="170" font-family="monospace" font-size="15" fill="#6b6b76">blackish bg · brighter text · zero build</text>
+  <rect x="60" y="200" width="8" height="8" rx="4" fill="#fff"/>
+  <rect x="80" y="200" width="8" height="8" rx="4" fill="#3f3f46"/>
+  <rect x="100" y="200" width="8" height="8" rx="4" fill="#3f3f46"/>
+</svg>
